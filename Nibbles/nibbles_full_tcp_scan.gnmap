@@ -1,0 +1,1 @@
+# Nmap 7.94SVN scan initiated Tue Dec 17 20:25:31 2024 as: /usr/lib/nmap/nmap --privileged -p- --open -oA nibbles_full_tcp_scan 10.129.42.190

@@ -1,0 +1,1 @@
+# Nmap 7.94SVN scan initiated Fri Dec 20 19:37:52 2024 as: /usr/lib/nmap/nmap --privileged -sV --script=http-enum -oA three_http_enum 10.129.160.131

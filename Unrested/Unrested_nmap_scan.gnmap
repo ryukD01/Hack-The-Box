@@ -1,0 +1,4 @@
+# Nmap 7.94SVN scan initiated Mon Dec 23 09:15:09 2024 as: /usr/lib/nmap/nmap --privileged -sC -sV -p- --min-rate 3000 -oA Unrested_nmap_scan 10.10.11.50
+Host: 10.10.11.50 ()	Status: Up
+Host: 10.10.11.50 ()	Ports: 22/open/tcp//ssh//OpenSSH 8.9p1 Ubuntu 3ubuntu0.10 (Ubuntu Linux; protocol 2.0)/, 80/open/tcp//http//Apache httpd 2.4.52 ((Ubuntu))/, 10050/open/tcp//tcpwrapped///, 10051/open/tcp//ssl|zabbix-trapper?///	Ignored State: closed (65531)
+# Nmap done at Mon Dec 23 09:15:55 2024 -- 1 IP address (1 host up) scanned in 46.14 seconds

@@ -1,0 +1,20 @@
+# Nmap 7.94SVN scan initiated Mon Dec 23 09:27:30 2024 as: /usr/lib/nmap/nmap --privileged -p- --script=vuln --min-rate 3000 -oA nmap_script_vuln 10.10.11.50
+Pre-scan script results:
+| broadcast-avahi-dos: 
+|   Discovered hosts:
+|     224.0.0.251
+|   After NULL UDP avahi packet DoS (CVE-2011-1002).
+|_  Hosts are all up (not vulnerable).
+Nmap scan report for 10.10.11.50
+Host is up (0.12s latency).
+Not shown: 65531 closed tcp ports (reset)
+PORT      STATE SERVICE
+22/tcp    open  ssh
+80/tcp    open  http
+|_http-csrf: Couldn't find any CSRF vulnerabilities.
+|_http-stored-xss: Couldn't find any stored XSS vulnerabilities.
+|_http-dombased-xss: Couldn't find any DOM based XSS.
+10050/tcp open  zabbix-agent
+10051/tcp open  zabbix-trapper
+
+# Nmap done at Mon Dec 23 09:29:17 2024 -- 1 IP address (1 host up) scanned in 107.75 seconds

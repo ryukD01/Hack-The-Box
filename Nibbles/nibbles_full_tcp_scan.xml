@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nmaprun>
+<?xml-stylesheet href="file:///usr/share/nmap/nmap.xsl" type="text/xsl"?>
+<!-- Nmap 7.94SVN scan initiated Tue Dec 17 20:25:31 2024 as: /usr/lib/nmap/nmap -&#45;privileged -p- -&#45;open -oA nibbles_full_tcp_scan 10.129.42.190 -->
+<nmaprun scanner="nmap" args="/usr/lib/nmap/nmap -&#45;privileged -p- -&#45;open -oA nibbles_full_tcp_scan 10.129.42.190" start="1734447331" startstr="Tue Dec 17 20:25:31 2024" version="7.94SVN" xmloutputversion="1.05">
+<scaninfo type="syn" protocol="tcp" numservices="65535" services="1-65535"/>
+<verbose level="0"/>
+<debugging level="0"/>
+<hosthint><status state="up" reason="unknown-response" reason_ttl="0"/>
+<address addr="10.129.42.190" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+</hosthint>
+<taskprogress task="SYN Stealth Scan" time="1734447410" percent="13.08" remaining="519" etc="1734447928"/>
+<taskprogress task="SYN Stealth Scan" time="1734447676" percent="19.00" remaining="1467" etc="1734449143"/>

@@ -1,0 +1,4 @@
+# Nmap 7.94SVN scan initiated Fri Dec 20 19:43:51 2024 as: /usr/lib/nmap/nmap --privileged -sV --script=http-enum -oA http_enum2 --min-rate 5000 10.129.160.131
+Host: 10.129.160.131 (s3.thetoppers.htb)	Status: Up
+Host: 10.129.160.131 (s3.thetoppers.htb)	Ports: 22/open/tcp//ssh//OpenSSH 7.6p1 Ubuntu 4ubuntu0.7 (Ubuntu Linux; protocol 2.0)/, 80/open/tcp//http//Apache httpd 2.4.29 ((Ubuntu))/	Ignored State: closed (998)
+# Nmap done at Fri Dec 20 19:44:08 2024 -- 1 IP address (1 host up) scanned in 17.02 seconds

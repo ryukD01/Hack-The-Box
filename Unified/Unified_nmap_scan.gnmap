@@ -1,0 +1,4 @@
+# Nmap 7.94SVN scan initiated Sat Dec 21 23:01:49 2024 as: /usr/lib/nmap/nmap --privileged -sC -sV -p- --min-rate 5000 -oA Unified_nmap_scan 10.129.194.121
+Host: 10.129.194.121 ()	Status: Up
+Host: 10.129.194.121 ()	Ports: 22/open/tcp//ssh//OpenSSH 8.2p1 Ubuntu 4ubuntu0.3 (Ubuntu Linux; protocol 2.0)/, 6789/open/tcp//ibm-db2-admin?///, 8080/open/tcp//http-proxy///, 8443/open/tcp//ssl|nagios-nsca//Nagios NSCA/, 8843/open/tcp//ssl|unknown///, 8880/open/tcp//cddbp-alt?///
+# Nmap done at Sat Dec 21 23:05:28 2024 -- 1 IP address (1 host up) scanned in 219.69 seconds

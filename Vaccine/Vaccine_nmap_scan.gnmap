@@ -1,0 +1,4 @@
+# Nmap 7.94SVN scan initiated Sat Dec 21 21:33:31 2024 as: /usr/lib/nmap/nmap --privileged -sC -sV -p- --min-rate 5000 -oA Vaccine_nmap_scan 10.129.95.174
+Host: 10.129.95.174 ()	Status: Up
+Host: 10.129.95.174 ()	Ports: 21/open/tcp//ftp//vsftpd 3.0.3/, 22/open/tcp//ssh//OpenSSH 8.0p1 Ubuntu 6ubuntu0.1 (Ubuntu Linux; protocol 2.0)/, 80/open/tcp//http//Apache httpd 2.4.41 ((Ubuntu))/	Ignored State: closed (65532)
+# Nmap done at Sat Dec 21 21:34:10 2024 -- 1 IP address (1 host up) scanned in 38.57 seconds
