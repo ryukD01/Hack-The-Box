@@ -1,0 +1,4 @@
+# Nmap 7.94SVN scan initiated Mon Dec 23 08:10:24 2024 as: /usr/lib/nmap/nmap --privileged -p- --script=vuln --min-rate 3000 -oA nmap_script_vuln 10.10.11.48
+Host: 10.10.11.48 ()	Status: Up
+Host: 10.10.11.48 ()	Ports: 22/open/tcp//ssh///, 80/open/tcp//http///	Ignored State: closed (65533)
+# Nmap done at Mon Dec 23 08:11:56 2024 -- 1 IP address (1 host up) scanned in 92.27 seconds

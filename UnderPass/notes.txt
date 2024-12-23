@@ -1,0 +1,5 @@
+Apache/2.4.52 (Ubuntu) Server at 10.10.11.48 Port 80
+
+The default Ubuntu document root is /var/www/html
+
+You can make your own virtual hosts under /var/www
