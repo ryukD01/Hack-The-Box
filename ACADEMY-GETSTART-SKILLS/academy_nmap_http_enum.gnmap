@@ -1,0 +1,4 @@
+# Nmap 7.94SVN scan initiated Wed Dec 18 22:31:16 2024 as: /usr/lib/nmap/nmap --privileged -sV --script=http-enum -oA academy_nmap_http_enum 10.129.160.71
+Host: 10.129.160.71 ()	Status: Up
+Host: 10.129.160.71 ()	Ports: 22/open/tcp//ssh//OpenSSH 8.2p1 Ubuntu 4ubuntu0.1 (Ubuntu Linux; protocol 2.0)/, 80/open/tcp//http//Apache httpd 2.4.41 ((Ubuntu))/	Ignored State: closed (998)
+# Nmap done at Wed Dec 18 22:46:22 2024 -- 1 IP address (1 host up) scanned in 906.30 seconds
